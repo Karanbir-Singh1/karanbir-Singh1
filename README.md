@@ -2,7 +2,7 @@
 ### Software Developer | Java | C++ | DSA 
 
 I’m a passionate Software Developer who loves building clean, scalable, and impactful applications.  
-My interests revolve around **backend development, object-oriented design, and solving real-world problems using code**.  
+My interests revolve around **object-oriented programming, and solving real-world problems**.  
 I enjoy working on challenging projects, exploring new technologies, and constantly improving my problem-solving skills.
 
 ---
