@@ -18,7 +18,7 @@ I enjoy working on challenging projects, exploring new technologies, and constan
 
 ## 🧰 Skills & Technologies
 
-### **Programming Languages**
+**Programming Languages**
 - Java  
 - C++  
 - JavaScript  
