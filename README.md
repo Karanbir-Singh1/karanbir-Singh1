@@ -38,7 +38,7 @@ I enjoy working on challenging projects, exploring new technologies, and constan
 ---
 
 ## ⭐ Featured Projects
-###🔹 **4.Gemini Clone
+###🔹 **4.Gemini Clone**
 • Built a responsive AI-powered chat application using React.js, enabling real-time user interaction with dynamic
 UI updates.
 • Integrated AI API to generate real-time, context-aware conversational responses.
