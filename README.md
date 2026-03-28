@@ -38,12 +38,12 @@ I enjoy working on challenging projects, exploring new technologies, and constan
 ---
 
 ## ⭐ Featured Projects
-###🔹 **4.Gemini Clone**
-• Built a responsive AI-powered chat application using React.js, enabling real-time user interaction with dynamic
-UI updates.
-• Integrated AI API to generate real-time, context-aware conversational responses.
-• Implemented state management using Context API to handle chat history and dynamic interactions.
-• **Tools Used:** React.js, HTML, CSS, RESTAPI
+###🔹 **4. Gemini Clone**
+- Built a responsive AI-powered chat application using React.js, enabling real-time user interaction with dynamic
+  UI updates.
+- Integrated AI API to generate real-time, context-aware conversational responses.
+- Implemented state management using Context API to handle chat history and dynamic interactions.
+**Tools Used:** React.js, HTML, CSS, RESTAPI
 --
 ### 🔹 **3. Intrusion Detection System (Python + OpenCV)**
 Real-time human detection using webcam feed:
